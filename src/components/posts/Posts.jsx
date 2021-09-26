@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
+import Post from '../post/Post';
 import './posts.css'
 class Posts extends Component {
     render() {
         return (
             <div className="posts">
-                pót
+                <Post/>
+                <Post/>
+                <Post/>
+                <Post/>
             </div>
         );
     }

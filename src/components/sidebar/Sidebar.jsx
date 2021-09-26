@@ -7,7 +7,7 @@ class Sidebar extends Component {
                 <div className="sidebar__item">
                     <span className="sidebar__title">ABOUT ME</span>
                     <img src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg" alt="" />
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis placeat quas nemo labore hic. Aliquam molestiae minima iusto dolores rem hic, aliquid aut facilis quam expedita vitae officia temporibus perspiciatis.</p>
+                    <p>Lập trình viên Front-end. Đã từng học tại Học viện Công nghệ bưu chính viễn thông Hồ Chí Minh.</p>
                 </div>
                 <div className="sidebar__item">
                     <span className="sidebar__title">CATEGORIES</span>
